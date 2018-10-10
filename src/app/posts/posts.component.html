@@ -1,0 +1,19 @@
+<h1>Posts</h1>
+
+<ul>
+  <ng-container *ngFor="let post of posts$">
+  <li *ngIf="post['author'] != 'unknown'">
+
+
+    <ul>
+      <li>{{post.title}}</li>
+    </ul>
+
+    <p>{{post.body}}</p>
+
+    <div>By: <i>{{post.author}}</i></div>
+
+
+  </li>
+  </ng-container>
+</ul>

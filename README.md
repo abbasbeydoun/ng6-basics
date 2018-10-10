@@ -1,3 +1,7 @@
+#Purpose
+
+I created this project to play around and explore Angular 6.
+
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
