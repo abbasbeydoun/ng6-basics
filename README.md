@@ -1,5 +1,3 @@
-#Purpose
-
 I created this project to play around and explore Angular 6.
 
 # Ng6
